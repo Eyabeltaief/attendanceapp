@@ -1,0 +1,7 @@
+Text(
+  "Some Text",
+  style: TextStyle(
+    fontFamily: "Nexa",
+    fontWeight: FontWeight.bold, // Use FontWeight.bold for NexaBold
+  ),
+),

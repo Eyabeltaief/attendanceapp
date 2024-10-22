@@ -1,0 +1,7 @@
+Text(
+  "Some Text",
+  style: TextStyle(
+    fontFamily: "Nexa",
+    fontWeight: FontWeight.normal, // Optional for NexaRegular
+  ),
+),
