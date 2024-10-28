@@ -157,7 +157,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 ),
               ),
               child: Center(
-                child: Image.asset("images/primatec.jpeg"),
+                child: Image.asset("images/prim.jpg"),
               ),
             ),
             SizedBox(height: screenHeight / 15),
